@@ -65,4 +65,20 @@ Market Performance vs Target
 
 <img width="695" height="674" alt="image" src="https://github.com/user-attachments/assets/64168e98-9755-4596-b584-795b85ab5e8b" />
 
+P&L by Fiscal Years
+
+<img width="645" height="567" alt="image" src="https://github.com/user-attachments/assets/be4a3dd5-da23-4d90-ac17-71f361fc7bfb" />
+
+P&L by Fiscal Months
+
+<img width="1306" height="656" alt="image" src="https://github.com/user-attachments/assets/39d1b750-4cf7-4f27-9fce-e93dfa43f548" />
+
+<img width="1347" height="325" alt="image" src="https://github.com/user-attachments/assets/ff5e2250-6f10-487d-90a9-ef232504c4f2" />
+
+<img width="1320" height="129" alt="image" src="https://github.com/user-attachments/assets/4e596fa6-3687-4c71-9676-0d92e8d022bd" />
+
+
+
+
+
 
